@@ -60,7 +60,7 @@ SplashScreen
 ```
 ![Splash Screen](screenshots/Quiz1.png)
 ![Login Screen](screenshots/Quiz2.png)
-![Category Screen](screenshots/QUiz4.png)
+![Category Screen](screenshots/Quiz4.png)
 ![Quiz Screen](screenshots/Quiz5.png)
 ![Result Screen](screenshots/Quiz6.png)
 
